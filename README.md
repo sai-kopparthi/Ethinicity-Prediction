@@ -1,4 +1,3 @@
-
 # Human Ethnicity Prediction
 
 This project is an implementation of the VGGFace model described in ["Deep Face Recognition"](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf) for classifying images in the [UTKFace](http://aicip.eecs.utk.edu/wiki/UTKFace) dataset based on ethnicity/race using Keras with TensorFlow backend.
